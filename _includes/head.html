@@ -1,0 +1,32 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <style>
+.navbar.navbar-ushydro {
+  background-color: #4BABE6;
+}
+.navbar a {
+  color: #fff;
+}
+.navbar a:hover, .nav>li>a:focus, .nav>li>a:hover{
+  color: #000;
+  background-color: #4BABE6;
+  transition: background .2s ease, color 0.1s linear;
+}
+.navbar-toggle {
+  border: 1px solid #ddd;
+}
+.navbar-toggle .icon-bar {
+  background-color: #ccc;
+}
+  </style>
+
+</head>

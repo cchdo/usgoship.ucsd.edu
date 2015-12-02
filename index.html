@@ -1,0 +1,33 @@
+---
+layout: default
+---
+<div class='col-md-8'>
+<a class="twitter-grid" href="https://twitter.com/_/timelines/672139854646403072">A Collection on Twitter</a>
+<script async src="https://platform.twitter.com/widgets.js"></script>
+
+  <a class="twitter-timeline" href="https://twitter.com/Ushydro" data-widget-id="657312203238862848">Tweets by @Ushydro</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+  <div class="home">
+    <a class="twitter-grid" 
+       data-limit="5"
+      href="https://twitter.com/_/timelines/657313292998742016">A
+      Collection on Twitter</a>
+    <script async src="https://platform.twitter.com/widgets.js"></script>
+  </div>
+
+</div>
+
+<div class="col-md-4">
+  <h2 class="page-heading">News &amp; Updates</h2>
+
+  <ul class="post-list">
+    {% for post in site.posts limit:10%}
+      <li>
+        <h3>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h3>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }} - </span>
+        {{ post.content | strip_html | truncatewords: 50 }}
+      </li>
+    {% endfor %}
+  </ul>
+</div>

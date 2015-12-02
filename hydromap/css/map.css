@@ -1,0 +1,68 @@
+.graticule {
+  display: none;
+  fill: none;
+  stroke: #777;
+  stroke-width: .5px;
+  stroke-opacity: .5;
+}
+
+.land {
+  fill: #4BABE6;
+}
+
+.boundary {
+  fill: none;
+  stroke: #222;
+  stroke-width: .0px;
+}
+.hydro{
+  fill: none;
+  stroke: #555;
+  stroke-width: 6;
+}
+.info{
+  fill: rgba(255, 255, 255, 1.0);
+  stroke: #888;
+  stroke-width: 2;
+  border:solid;
+  border-color: #888;
+  background: #eee;
+  text-align: center;
+}
+.labels{
+  z-index: 10;
+  fill: #000;
+}
+.pending{
+  color: #f00;
+  fill: #f00;
+  stroke: none;
+}
+.completed{
+  color: #999;
+  fill: #999;
+  stroke: none;
+}
+.proposed{
+  color: #00f;
+  fill: #00f;
+  stroke: none;
+}
+g:hover .hydro{
+  stroke: #FFA300;
+}
+g:hover .info{
+  fill: rgba(255, 255, 255, 1.0);
+}
+svg{
+  border: solid 2px;
+}
+.hydromap_title, .hydromap_ledgend{
+  text-align: center;
+}
+.hydromap_title{
+  font-size: 1.33em;
+}
+.hydromap_ledgend{
+  font-size: 1.2em;
+}
