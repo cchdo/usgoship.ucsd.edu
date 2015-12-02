@@ -17,89 +17,85 @@ They oversee pre-cruise planning, data submission, and documentation, and work t
 scientists into the program.</p>
 
 <table>
-<tr>
-<td>
-Leticia Barbero<br>
+  <tr>
+    <td>
+      Leticia Barbero<br>
       <em>National Oceanic and Atmospheric Administration (NOAA)/AOML</em><br>
       <a href="mailto:leticia.barbero@noaa.gov">leticia.barbero@noaa.gov</a>
-</td>
-<td>
-Molly Baringer<br>
+    </td>
+    <td>
+      Molly Baringer<br>
       <em>National Oceanic and Atmospheric Administration (NOAA)/AOML</em><br>
       <a href="mailto:Molly.Baringer@noaa.gov">Molly.Baringer@noaa.gov</a>
-</td>
-<td>
-Craig Carlson<br>
+    </td>
+    <td>
+      Craig Carlson<br>
       <em>University of California, Santa Barbara</em><br>
       <a href="mailto:carlson@lifesci.ucsb.edu">carlson@lifesci.ucsb.edu</a>
-</td>
-<td>
-Brendan Carter<br>
+    </td>
+    <td>
+      Brendan Carter<br>
       <em>National Oceanic and Atmospheric Administration (NOAA)/PMEL</em><br>
       <a href="mailto:brendan.carter@noaa.gov">brendan.carter@noaa.gov</a>
-</td>
-</tr>
-<tr>
-<td>
-Andrew Dickson<br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Andrew Dickson<br>
       <em>Scripps Institution of Oceanography (SIO)</em><br>
       <a href="mailto:adickson@ucsd.edu">adickson@ucsd.edu</a>
-</td>
-<td>
-Scott Doney<br>
+    </td>
+    <td>
+      Scott Doney<br>
       <em>Woods Hole Oceanographic Institution (WHOI)</em><br>
       <a href="mailto:sdoney@whoi.edu">sdoney@whoi.edu</a>
-</td>
-<td>
-Richard Feely<br>
+    </td>
+    <td>
+      Richard Feely<br>
       <em>National Oceanic and Atmospheric Administration (NOAA)/PMEL</em><br>
       <a href="mailto:Richard.A.Feely@noaa.gov">Richard.A.Feely@noaa.gov</a>
-</td>
-<td>
-Gregory C. Johnson (<span class="cochair">Co-chair)<br>
-      <em>National Oceanic and Atmospheric Administration (NOAA)/PMEL</em><br>
-      <a href="mailto:Gregory.C.Johnson@noaa.gov">Gregory.C.Johnson@noaa.gov</a>
-</td>
-</tr>
-<tr>
-<td>
-Alison Macdonald<br>
+    </td>
+    <td>
+      Gregory C. Johnson (Co-chair)<br>
+        <em>National Oceanic and Atmospheric Administration (NOAA)/PMEL</em><br>
+        <a href="mailto:Gregory.C.Johnson@noaa.gov">Gregory.C.Johnson@noaa.gov</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Alison Macdonald<br>
       <em>Woods Hole Oceanographic Institution (WHOI)</em><br>
       <a href="mailto:amacdonald@whoi.edu">amacdonald@whoi.edu</a>
-</td>
-<td>
-Jim Swift<br>
+    </td>
+    <td>
+      Jim Swift<br>
       <em>Scripps Institution of Oceanography (SIO)</em><br>
       <a href="mailto:jswift@ucsd.edu">jswift@ucsd.edu</a>
-</td>
-<td>
-Lynne Talley (<span class="cochair">Co-chair)<br>
-      <em>Scripps Institution of Oceanography (SIO)</em><br>
-      <a href="mailto:ltalley@ucsd.edu">ltalley@ucsd.edu</a>
-</td>
-<td>
-Andreas Thurnherr<br>
+    </td>
+    <td>
+      Lynne Talley (Co-chair)<br>
+        <em>Scripps Institution of Oceanography (SIO)</em><br>
+        <a href="mailto:ltalley@ucsd.edu">ltalley@ucsd.edu</a>
+    </td>
+    <td>
+      Andreas Thurnherr<br>
       <em>Lamont-Doherty Earth Observatory</em><br>
       <a href="mailto:ant@ldeo.columbia.edu">ant@ldeo.columbia.edu</a>
-</td>
-</tr>
-<tr>
- <td>
-Mark Warner<br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Mark Warner<br>
       <em>University of Washington</em><br>
       <a href="mailto:warner@u.washington.edu">warner@u.washington.edu</a>
-</td>
-<td>
-Rik Wanninkhof, ex officio  (<span class="cochair">GO-SHIP co-chair)<br>
-      <em>National Oceanic and Atmospheric Administration (NOAA)/AOML</em><br>
-      <a href="mailto:rik.wanninkhof@noaa.gov">rik.wanninkhof@noaa.gov</a>
-</td>
- </tr>
+    </td>
+    <td>
+      Rik Wanninkhof, ex officio  (GO-SHIP co-chair)<br>
+        <em>National Oceanic and Atmospheric Administration (NOAA)/AOML</em><br>
+        <a href="mailto:rik.wanninkhof@noaa.gov">rik.wanninkhof@noaa.gov</a>
+    </td>
+  </tr>
 </table>
-
-
-
-
 
 <p>Contact the committee co-chairs (Gregory C. Johnson and Lynne Talley) for information on participation or for 
 incorporation of a Level 3 measurement or a measurement that is not on the list of Core ts.</p>
