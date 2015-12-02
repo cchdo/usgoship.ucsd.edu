@@ -1,3 +1,8 @@
+---
+layout: default
+title: "US Goship Executive Council"
+permalink: /executive_council/
+---
 US Goship Executive Council
 <p>The oversight committee for the US Global Ocean Carbon and Repeat Hydrography Program sees that the joint program 
 of repeat hydrography, ocean carbon, and tracer measurements is completed to e scientific objectives of the program. 
