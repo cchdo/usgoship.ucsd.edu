@@ -1,10 +1,10 @@
 ---
 layout: page
-title: People
+title: Principle Investigator Directory
 permalink: /people/
 ---
 
-## US GO-SHIP principal investigators and chief scientists
+## US GO-SHIP Principal Investigators and Chief Scientists
 
 <table class="table">
     <thead>
@@ -16,7 +16,7 @@ permalink: /people/
          <th>Institution</th>
          <th>Specialty</th>
          <th>Role in program</th>
-         <th>Chief Scientist on</th>
+         <th>Chief Scientist</th>
       </tr>
     </thead>
     <tbody>
