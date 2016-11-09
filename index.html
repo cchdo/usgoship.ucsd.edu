@@ -1,23 +1,38 @@
 ---
 layout: default
 ---
+<div class="row">
 
-<div class="home">
+	<div class="col-md-4">
+		<div class="card card-outline-success card-block">
+			<h4 class="card-title">Get Involved</h4>
+			<p class="card-text"></p>
+			<a href="#" class="card-link">Students</a>
+			<a href="#" class="card-link">Scientists</a>
+		</div>
+	</div>
 
-  <h1 class="page-heading">Posts</h1>
+	<div class="col-md-4">
+	</div>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+	<div class="col-md-4">
+	</div>
 
 </div>
+<!--
+	<h1 class="page-heading">Posts</h1>
+
+	<ul class="post-list">
+	{% for post in site.posts %}
+	<li>
+	<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+	<h2>
+	<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+	</h2>
+	</li>
+	{% endfor %}
+	</ul>
+
+	<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+-->
