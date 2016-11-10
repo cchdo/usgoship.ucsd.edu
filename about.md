@@ -6,7 +6,7 @@ permalink: /about/
 ## Rationale For Repeat Hydrography Surveys In Support Of Clivar And Carbon Cycle Objectives
 
 The U.S. Global Ocean Carbon and Repeat Hydrography Program is part of
-the international GO-SHIP program (http://www.go-ship.org), which
+the international [GO-SHIP program](http://www.go-ship.org), which
 carries out a systematic and global re-occupation of select hydrographic
 sections to quantify changes in storage and transport of heat, fresh
 water, carbon dioxide (CO<sub>2</sub>), and related parameters. By integrating the
@@ -32,7 +32,7 @@ variables, CO2 system parameters, and tracers throughout the water
 column.
 
 The Global Ocean Ship-Based Hydrographic Investigations Program
-(GO-SHIP; http://www.go-ship.org/) brings together scientists with
+([GO-SHIP](http://www.go-ship.org/)) brings together scientists with
 interests in physical oceanography, the carbon cycle, marine
 biogeochemistry and ecosystems, and other users and collectors of
 hydrographic data to develop a globally coordinated network of sustained
@@ -69,69 +69,6 @@ understanding; societal benefits of collection of a high quality data
 set, use of the data to assess climate change, and a resource for model
 calibration of the climate system; promotion of training and learning
 for graduate students, postdoctoral scientists, and new scientists.
-
-### Oversight Committee
-
-The oversight committee for the US Global Ocean Carbon and Repeat
-Hydrography Program sees that the joint program of repeat hydrography,
-ocean carbon, and tracer measurements is completed to fulfill the
-scientific objectives of the program. The committee makes
-recommendations on the sequence and coverage of the transects and
-oversees any needed changes. They select a chief scientist, co-chief
-scientist and 2-5 graduate students per cruise through community-wide
-solicitations, and ensure that the core measurements are adequately and
-consistently covered by the measurement teams for each cruise. They also
-make recommendations regarding proposed add-on (Level 3) measurements;
-for example, considering the requirements for extra ship time, berths,
-and the seawater sample volume available for analyses. They ensure
-smooth interactions with funding agencies and individual investigators,
-and help see that adequate support is provided for the data management
-structures. They serve as contact for coordinating with other national
-and international efforts, and coordinate with CLIVAR and Carbon program
-steering committees. They oversee pre-cruise planning, data submission,
-and documentation, and work to ensure succession by entrainment of new
-scientists into the program.
-
-* [Leticia Barbero](mailto:leticia.barbero@noaa.gov)
-  National Oceanic and Atmospheric Administration (NOAA)/AOML
-* [Molly Baringer](mailto:Molly.Baringer@noaa.gov)
-  National Oceanic and Atmospheric Administration (NOAA)/AOML
-* [Craig Carlson](mailto:carlson@lifesci.ucsb.edu)
-  University of California, Santa Barbara
-* [Brendan Carter](mailto:brendan.carter@noaa.gov)
-  National Oceanic and Atmospheric Administration (NOAA)/PMEL
-* [Andrew Dickson](mailto:adickson@ucsd.edu)
-  Scripps Institution of Oceanography (SIO)
-* [Scott Doney](mailto:sdoney@whoi.edu)
-  Woods Hole Oceanographic Institution (WHOI
-* [Richard Feely](mailto:Richard.A.Feely@noaa.gov)
-  National Oceanic and Atmospheric Administration (NOAA)/PMEL
-* [Gregory C. Johnson](mailto:Gregory.C.Johnson@noaa.gov) (Co-chair)
-  National Oceanic and Atmospheric Administration (NOAA)/PMEL
-* [Alison Macdonald](mailto:amacdonald@whoi.edu)
-  Woods Hole Oceanographic Institution (WHOI)
-* [Jim Swift](mailto:jswift@ucsd.edu)
-  Scripps Institution of Oceanography (SIO)
-* [Lynne Talley](mailto:ltalley@ucsd.edu) (Co-chair)
-  Scripps Institution of Oceanography (SIO)
-* [Andreas Thurnherr](mailto:ant@ldeo.columbia.edu)
-  Lamont-Doherty Earth Observatory
-* [Mark Warner](mailto:warner@u.washington.edu)
-  University of Washington
-* [Rik Wanninkhof](mailto:rik.wanninkhof@noaa.gov), ex officio (GO-SHIP co-chair)
-  National Oceanic and Atmospheric Administration (NOAA)/AOML
-
-
-Contact the committee co-chairs (Gregory C. Johnson and Lynne Talley)
-for information on participation or for incorporation of a Level 3
-measurement or a measurement that is not on the list of Core
-Measurements.
-
-Jim Swift assists the committee with coordination of program activities
-carried out by US academic institutions, such as ship-time requests for
-non-NOAA ships, pre-cruise information and logistics, organization of
-the shipboard physical oceanography team, and oversight of data
-reporting.
 
 ### Data Collected
 
@@ -207,7 +144,7 @@ Level 3 data (examples):
   * DMS
 
 
-## CRUISE ORGANIZATION, PLANNING, AND DOCUMENTATION
+## Cruise Organization, Planning, And Documentation
 
 Each cruise will be planned by the chief scientist and principal
 investigators responsible for Level 1 and 2 measurements, taking into
@@ -316,7 +253,7 @@ accessible to the community via worldwide web servers and online data
 reports. The data management groups also see that the data are provided
 to NODC.
 
-## DATA POLICY OVERVIEW
+## Data Policy Overview
 
 In unilateral recognition of the international importance of these
 globally distributed repeat hydrographic sections, and as an example to
@@ -326,8 +263,8 @@ to all investigators. Thus the following data policy for hydrographic
 observations has been adopted:
 
 * Observations are made publicly available in preliminary form through the
-  specified data assembly centers (the CLIVAR and Carbon Hydrographic Data
-  Center - CCHDO - http://cchdo.ucsd.edu for CTD and bottle data) as soon
+  specified data assembly centers (the [CLIVAR and Carbon Hydrographic Data
+  Center - CCHDO](https://cchdo.ucsd.edu) for CTD and bottle data) as soon
   after collection as is practical ("early release"), with final
   calibrated data provided publicly when available. Collection is
   interpreted as the completion of the determination of the value of the
@@ -370,7 +307,7 @@ two-year release from time of analysis. Some nations or individual
 investigators are making at least some of their data available rapidly,
 similar to the U.S. policy.
 
-## APPLICATION OF THE DATA POLICY - TIMELINE
+## Application Of The Data Policy - Timeline
 
 The "early release" data policy applies to all measurements in the core
 program for repeat hydrography, including both Levels 1 and 2 (see core
@@ -423,7 +360,7 @@ Within 2 years of analysis (required NSF data release schedule):
   submitted to the relevant data management groups (examples are a JGOFS
   SMP project for global transmissometry, and the NASA DAC for optics).
 
-## DATA SUBMISSION
+## Data Submission
 
 A subset of the temperature/salinity/depth and meteorological data
 should be submitted in near real-time during the cruise, through the
@@ -436,7 +373,7 @@ data) should include centers for: CTD data, discrete bottle data,
 underway data, ADCP data and meteorological data. Most Level 3 data sets
 can be submitted to these centers.
 
-## U.S. SUPPORT FOR OBSERVATIONS ON NON-U.S. CRUISES
+## U.S. Support For Observations On Non-U.S. Cruises
 
 Long repeat hydrographic sections are being carried out by other
 nations. Some may not include all Level 1 and 2 observations. If U.S.
