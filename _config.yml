@@ -7,15 +7,17 @@
 
 # Site settings
 title: US GO-SHIP
-email: your-email@domain.com
+email: cchdo@ucsd.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+  This web site is supported by grant funds from the National 
+  Science Foundation. Any opinions, findings, and conclusions 
+  or recommendations expressed in this web site are those of 
+  the PIs, James Swift and Lynne Talley, and do not necessarily 
+  reflect the views of the supporting Federal agency.
+baseurl: "/us-goship" # the subpath of your site, e.g. /blog
+url: "http://ushydro.ucsd.edu" # the base hostname & protocol for your site
+twitter_username: ushydro
+github_username:  cchdo
 
 # Build settings
 markdown: kramdown
