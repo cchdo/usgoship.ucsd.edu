@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <div class="row">
 <div class="col-sm-12">
 <div class="card-group">
@@ -39,7 +38,7 @@ US GO-SHIP is part of the <a href="http://www.go-ship.org/">international GO-SHI
 
 	<h1 class="page-heading">News</h1>
 	{% for post in site.posts %}
-<div class="card card-block">
+<div class="card card-block post">
   <h4 class="card-title">{{post.title}} <small>{{ post.date | date: "%b %-d, %Y" }}</small></h4>
   {{post.excerpt}}
   <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-primary">Read More</a>
@@ -47,17 +46,6 @@ US GO-SHIP is part of the <a href="http://www.go-ship.org/">international GO-SHI
 </div>
 
 </div>
-
-<!--
-	<li>
-	<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-	<h2>
-	<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-	</h2>
-{{ post.excerpt }}
-	</li>
--->
 	{% endfor %}
 
 	<!--<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>-->
