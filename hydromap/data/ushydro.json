@@ -215,7 +215,7 @@
       "title": "S04P",
       "line": "S04P",
       "completed": [2011],
-      "pending": [2020],
+      "pending": [2018],
       "proposed": [],
       "box":[174,-65]
     }
@@ -255,7 +255,7 @@
       "title": "I05",
       "line": "I05",
       "completed": [2009],
-      "pending": [2018],
+      "pending": [2019],
       "proposed": [],
       "box":[45,-35]
     }
@@ -286,8 +286,8 @@
     "properties": {
       "title": "I09N",
       "line": "I09N",
-      "completed": [2007],
-      "pending": [2016],
+      "completed": [2007,2016],
+      "pending": [],
       "proposed": [],
       "box":[105,-5]
     }
@@ -302,8 +302,8 @@
     "properties": {
       "title": "I08S",
       "line": "I08S",
-      "completed": [2007],
-      "pending": [2016],
+      "completed": [2007,2016],
+      "pending": [],
       "proposed": [],
       "box":[105,-50]
     }
