@@ -1,38 +1,63 @@
 ---
 layout: default
 ---
-<div class="row">
 
-	<div class="col-md-4">
+<div class="row">
+<div class="col-sm-12">
+<div class="card-group">
+		<div class="card card-outline-success card-block">
+			<h4 class="card-title">Get Data</h4>
+			<p class="card-text"></p>
+			<a href="https://cchdo.ucsd.edu/search?q=USHYDRO&download=exchange%2cbottle" class="">Download All Bottle Data</a><br>
+			<a href="https://cchdo.ucsd.edu/search?q=USHYDRO&download=exchange%2cctd" class="">Download All CTD Data</a><br>
+			<a href="{{site.baseurl}}/hydrotable/" class="">See Other Data Types</a>
+		</div>
+
+		<div class="card card-outline-success card-block">
+			<h4 class="card-title">Get Information</h4>
+			<p class="card-text"></p>
+			<a href="{{site.baseurl}}/hydrotable/" class="">Cruise Schedules</a><br>
+			<a href="{{site.baseurl}}/hydromap/" class="">Cruise Maps</a>
+		</div>
+
+
 		<div class="card card-outline-success card-block">
 			<h4 class="card-title">Get Involved</h4>
-			<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-			<a href="#" class="card-link">Students</a>
-			<a href="#" class="card-link">Scientists</a>
+			<p class="card-text"></p>
+			<a href="{{site.baseurl}}/get_involved/#students" class="">Students</a><br>
 		</div>
-	</div>
+</div>
+</div>
+</div>
 
-	<div class="col-md-4">
-	</div>
+<p class="lead">
+US GO-SHIP is part of the <a href="http://www.go-ship.org/">international GO-SHIP</a> network of sustained hydrographic sections, supporting physical oceanography, the carbon cycle, and marine biogeochemistry and ecosystems. The US program is sponsored by <a href="http://usclivar.org/">US CLIVAR</a> and <a href="http://www.us-ocb.org/">OCB</a>.
+</p>
 
-	<div class="col-md-4">
-	</div>
+<div class="row">
+<div class="col-sm-12">
+
+	<h1 class="page-heading">News</h1>
+	{% for post in site.posts %}
+<div class="card card-block">
+  <h4 class="card-title">{{post.title}} <small>{{ post.date | date: "%b %-d, %Y" }}</small></h4>
+  {{post.excerpt}}
+  <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-primary">Read More</a>
+</div>
+</div>
 
 </div>
-<!--
-	<h1 class="page-heading">Posts</h1>
 
-	<ul class="post-list">
-	{% for post in site.posts %}
+<!--
 	<li>
 	<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
 	<h2>
 	<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 	</h2>
+{{ post.excerpt }}
 	</li>
-	{% endfor %}
-	</ul>
-
-	<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 -->
+	{% endfor %}
+
+	<!--<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>-->
