@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Principal Investigators and Chief Scientists
+title: Personnel
 permalink: /people/
 ---
 <div class="alert alert-info" role="alert">Principal Investigators interested in postdoc mentoring are highlighted in blue</div> 
