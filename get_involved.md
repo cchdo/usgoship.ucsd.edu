@@ -43,8 +43,8 @@ The postdoc fellow can be resident at the institution of any U.S. GO-SHIP princi
 The one-year fellowships are administered financially through the Scripps Institution of Oceanography.
 Fellows serve as co-chief scientist on one leg of a U.S. GO-SHIP cruise during their fellowship.
 
-New Measuredments
------------------
+New Measurements
+----------------
 Proposals to US funding agencies for additional ('Level 3') measurements that take advantage of the core (Level 1 and 2) measurements are encouraged.
 US GO-SHIP should be consulted in advance of such proposals to see if the measurements can be accommodated, including wire time, laboratory space, and berths.
 Data management is subject to the policies that apply to all Level 3 data.
