@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bibliography
+title: GO-SHIP Bibliography
 permalink: /bibliography/
 ---
 <style>
@@ -10,7 +10,11 @@ permalink: /bibliography/
   
 }
 </style>
-<h2>GO-SHIP Bibliography</h2>
+
+If your publication is missing, e-Mail coordinator 
+<a href="mailto:mkramp@jcommops.org">Martin Kramp</a>
+with: Author(s), title, journal, year, and if possible a URL to an online library!
+
 <ul>
 <li><div class="csl-entry">Abraham, J. P. et al. “A Review of Global Ocean Temperature Observations: Implications for Ocean Heat Content Estimates and Climate Change.” <i>Reviews of Geophysics</i> 51.3 (2013): 450–483. Web. 2 Dec. 2013.</div></li>
 <li><div class="csl-entry">Álvarez, Marta. “Unaccounted Role of Mediterranean Water in the Drawdown of Anthropogenic Carbon.” <i>Journal of Geophysical Research</i> 110.C9 (2005): n. pag. Web. 7 Oct. 2013.</div></li>

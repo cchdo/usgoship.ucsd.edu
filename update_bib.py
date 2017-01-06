@@ -13,7 +13,7 @@ items = zot.everything(zot.top())
 print(len(items))
 page = u"""---
 layout: page
-title: Bibliography
+title: GO-SHIP Bibliography
 permalink: /bibliography/
 ---
 <style>
@@ -23,7 +23,11 @@ permalink: /bibliography/
   
 }
 </style>
-<h2>GO-SHIP Bibliography</h2>
+
+If your publication is missing, e-Mail coordinator 
+<a href="mailto:mkramp@jcommops.org">Martin Kramp</a>
+with: Author(s), title, journal, year, and if possible a URL to an online library!
+
 <ul>
 """
 for item in items:
