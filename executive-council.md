@@ -4,7 +4,7 @@ title: "US GO-SHIP Executive Council"
 permalink: /executive_council/
 ---
 
-The oversight committee for the US Global Ocean Carbon and Repeat Hydrography Program sees that the joint program of repeat hydrography, ocean carbon, and tracer measurements is completed to fulfill the scientific objectives of the program.
+The executive council for US GO-SHIP sees that the program of repeat hydrography, ocean carbon, and tracer measurements is completed to fulfill the scientific objectives of GO-SHIP.
 
 See the [Executive Council Terms of Reference]({{ site.baseurl }}{% link
 files/20170106_US_GEC_Terms_of_Reference.pdf %}).
