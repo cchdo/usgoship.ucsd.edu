@@ -4,25 +4,11 @@ title: "US GO-SHIP Executive Council"
 permalink: /executive_council/
 ---
 
-The oversight committee for the US Global Ocean Carbon and Repeat
-Hydrography Program sees that the joint program of repeat hydrography,
-ocean carbon, and tracer measurements is completed to fulfill the
-scientific objectives of the program. The committee makes
-recommendations on the sequence and coverage of the transects and
-oversees any needed changes. They select a chief scientist, co-chief
-scientist and 2-5 graduate students per cruise through community-wide
-solicitations, and ensure that the core measurements are adequately and
-consistently covered by the measurement teams for each cruise. They also
-make recommendations regarding proposed add-on (Level 3) measurements;
-for example, considering the requirements for extra ship time, berths,
-and the seawater sample volume available for analyses. They ensure
-smooth interactions with funding agencies and individual investigators,
-and help see that adequate support is provided for the data management
-structures. They serve as contact for coordinating with other national
-and international efforts, and coordinate with CLIVAR and Carbon program
-steering committees. They oversee pre-cruise planning, data submission,
-and documentation, and work to ensure succession by entrainment of new
-scientists into the program.
+The oversight committee for the US Global Ocean Carbon and Repeat Hydrography Program sees that the joint program of repeat hydrography, ocean carbon, and tracer measurements is completed to fulfill the scientific objectives of the program.
+
+See the [Executive Council Terms of Reference]({{ site.baseurl }}{% link
+files/20170106_US_GEC_Terms_of_Reference.pdf %}).
+
 
 * [Leticia Barbero](mailto:leticia.barbero@noaa.gov)
   National Oceanic and Atmospheric Administration (NOAA)/AOML
