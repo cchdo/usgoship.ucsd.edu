@@ -272,7 +272,7 @@
       "line": "I07N",
       "completed": [],
       "pending": [],
-      "proposed": [],
+      "proposed": [2018],
       "box":[63,0]
     }
   },
@@ -400,7 +400,7 @@
       "line": "IO1E",
       "completed": [],
       "pending": [],
-      "proposed": [2016],
+      "proposed": [],
       "box":[80,15]
     }
   },
