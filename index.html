@@ -45,6 +45,13 @@ US GO-SHIP is part of the <a href="http://www.go-ship.org/">international GO-SHI
 <div class="col-sm-12">
 
 	<h1 class="page-heading">News</h1>
+  {% for post in site.categories.sticky limit: 3 %}
+<div class="card card-outline-success card-block post">
+  <h4 class="card-title">{{post.title}} <small>{{ post.date | date: "%b %-d, %Y" }}</small></h4>
+  {{post.excerpt}}
+  <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-primary">Read More</a>
+</div>
+  {% endfor %}
 	{% for post in site.posts %}
 <div class="card card-block post">
   <h4 class="card-title">{{post.title}} <small>{{ post.date | date: "%b %-d, %Y" }}</small></h4>
