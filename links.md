@@ -6,21 +6,24 @@ permalink: /links/
 
 Data Downloads
 --------------
-* [CCHDO (Cruise Data)](http://cchdo.ucsd.edu)
+* [CCHDO (CTD & Bottle Data)](http://cchdo.ucsd.edu)
 * [CDIAC (Carbon Data)](http://cdiac.ornl.gov)
+* [Shipboard ADCP data](http://currents.soest.hawaii.edu/clivar_co2/)
+* [Lowered ADCP Data](http://currents.soest.hawaii.edu/clivar/ladcp/)
+* [Shipboard Meteorology](http://www.coaps.fsu.edu/RVSMDC/CLIVAR/html/data.shtml)
 
 International Programs and Agencies
 -----------------------------------
-* [The Global Ocean Ship-based Hydrographic Investigations Program (GO-SHIP)](http://go-ship.org)
-* [Climate Variability and Predictability (CLIVAR) US/UK](http://www.clivar.org/resources/data/clivar-carbon-and-hydrographic-sections)
-* [CLIVAR Diapycnal and Isopycnal Mixing Experiment in the Southern Ocean (DIMES)](http://dimes.ucsd.edu/)
-* [International Ocean Carbon Coordination Project (IOCCP)](http://www.ioccp.org/)
+* [GO-SHIP - The Global Ocean Ship-based Hydrographic Investigations Program](http://go-ship.org)
+* [CLIVAR - Climate Variability and Predictability US/UK](http://www.clivar.org/resources/data/clivar-carbon-and-hydrographic-sections)
+* [IOCCP - International Ocean Carbon Coordination Project](http://www.ioccp.org/)
 * [Carboocean](http://www.carboocean.org/)
-* [Global Ocean Observing System (GOOS)](http://www.ioc-goos.org/)
-* [Southern Ocean Observing System (SOOS)](http://www.scar.org/soos/)
+* [GOOS - Global Ocean Observing System](http://www.ioc-goos.org/)
+* [SOOS - Southern Ocean Observing System](http://www.scar.org/soos/)
 * [OceanSites](http://www.whoi.edu/virtual/oceansites/)
-* [Argo](http://www.argo.net/)
-* [CDIAC](http://cdiac.ornl.gov/oceans)
+* [Argo](http://argo.ucsd.edu)
+* [GLODAPv2 GLobal Ocean Data Analysis Project Version 2](http://cdiac.ornl.gov/oceans/GLODAPv2/)
+* [SOCAT - Surface Ocean CO2 Atlas](http://www.socat.info)
 
 National Programs and Agencies
 ------------------------------
