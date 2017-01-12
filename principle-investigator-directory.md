@@ -30,6 +30,46 @@ permalink: /people/
   </thead>
   <tbody>
     <tr>
+      <td></td>
+      <td>Volkov, Denis<br>dlvolkov@gmail.com</td>
+      <td>RSMAS</td>
+      <td>Physical Oceanography</td>
+      <td>CTD</td>
+      <td>Co-chief A16N 2013</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Rodriguez, Carmen<br>crodriguez@rsmas.miami.edu</td>
+      <td>RSMAS</td>
+      <td>Biogeochemistry</td>
+      <td>Carbon</td>
+      <td>Co-chief I9N 2016</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Menezes, Viviane<br>vmenezes@whoi.edu</td>
+      <td>WHOI</td>
+      <td>Physical Oceanography</td>
+      <td>CTD</td>
+      <td>Co-chief I8S 2016</td>
+    </tr>
+    <tr>
+      <td>Postdoctoral Fellow</td>
+      <td>Bourbonnais, Annie<br>abourbonnais@umassd.edu</td>
+      <td>WHOI</td>
+      <td>Biogeochemistry</td>
+      <td>Nutrients, carbon</td>
+      <td>Co-chief P18 2016</td>
+    </tr>
+    <tr>
+      <td>Postdoctoral Fellow</td>
+      <td>Purkey, Sarah<br>purkeysg@ldeo.columbia.edu</td>
+      <td>LDEO</td>
+      <td>Physical Oceanography</td>
+      <td>CTD</td>
+      <td>Co-chief P18 2016</td>
+    </tr>
+    <tr>
       <td>USEC (2015-16)</td>
       <td>Barbero, Leticia<br>leticia.barbero@noaa.gov</td>
       <td>CIMAS/UMiami (NOAA affiliate)</td>
@@ -313,5 +353,7 @@ permalink: /people/
 </table>
 </div>
 <script>
-$("#person_table").tablesorter();
+$("#person_table").tablesorter({
+  sortList: [[1,0]]
+});
 </script>
