@@ -3,11 +3,21 @@ layout: default
 title: Personnel
 permalink: /people/
 ---
+<script src="{{site.baseurl}}/lib/jquery/jquery-3.1.1.min.js"></script>
+<script src="{{site.baseurl}}/lib/jquery.tablesorter/jquery.tablesorter.min.js"></script>
+<style>
+.headerSortDown::after {
+  content: "↓";
+}
+.headerSortUp::after {
+  content: "↑";
+}
+</style>
 <div class="alert alert-info" role="alert">Principal Investigators interested in postdoc mentoring are highlighted in blue</div> 
 <div class="alert alert-success" role="alert">Principal Investigators interested in postdoc co-mentoring are highlighted in green</div>
 
 <div class="table-responsive">
-<table class="table">
+<table class="table" id="person_table">
   <thead>
     <tr>
       <th>Committee Membership</th>
@@ -302,3 +312,6 @@ permalink: /people/
   </tbody>
 </table>
 </div>
+<script>
+$("#person_table").tablesorter();
+</script>
