@@ -20,15 +20,15 @@ permalink: /people/
   </thead>
   <tbody>
     <tr>
-      <td>RHOC (2015-16)</td>
+      <td>USEC (2015-16)</td>
       <td>Barbero, Leticia<br>leticia.barbero@noaa.gov</td>
       <td>CIMAS/UMiami (NOAA affiliate)</td>
       <td>Biogeochemistry</td>
       <td>Carbon</td>
-      <td>I9N 2016</td>
+      <td>I9N 2016, A16S 2013</td>
     </tr>
     <tr>
-      <td>RHOC</td>
+      <td>USEC</td>
       <td>Carlson, Craig<br>carlson@lifesci.ucsb.edu</td>
       <td>UCSB</td>
       <td>Biogeochemistry</td>
@@ -36,7 +36,7 @@ permalink: /people/
       <td></td>
     </tr>
     <tr>
-      <td>RHOC (2015-16)</td>
+      <td>USEC (2015-16)</td>
       <td>Carter, Brendan<br>brendan.carter@noaa.gov</td>
       <td>NOAA/PMEL</td>
       <td>Biogeochemistry</td>
@@ -60,7 +60,7 @@ permalink: /people/
       <td></td>
     </tr>
     <tr>
-      <td>RHOC</td>
+      <td>USEC</td>
       <td class="table-info">Doney, Scott<br>sdoney@whoi.edu</td>
       <td>WHOI</td>
       <td>Biogeochemistry</td>
@@ -68,7 +68,7 @@ permalink: /people/
       <td></td>
     </tr>
     <tr>
-      <td>RHOC, GO-SHIP</td>
+      <td>USEC, GO-SHIP</td>
       <td class="table-info">Feely, Richard<br>richard.a.feely@noaa.gov</td>
       <td>NOAA/PMEL</td>
       <td>Biogeochemistry</td>
@@ -97,10 +97,10 @@ permalink: /people/
       <td>UW APL</td>
       <td>Biogeochemistry</td>
       <td>O2, nutrients</td>
-      <td>P2 2013</td>
+      <td>P6 2017, P2 2013</td>
     </tr>
     <tr>
-      <td>RHOC</td>
+      <td>USEC</td>
       <td>Millero, Frank<br>fmillero@rsmas.miami.edu</td>
       <td>RSMAS</td>
       <td>Biogeochemistry</td>
@@ -116,7 +116,7 @@ permalink: /people/
       <td></td>
     </tr>
     <tr>
-      <td>RHOC</td>
+      <td>USEC</td>
       <td>Sabine, Chris<br>chris.sabine@noaa.gov</td>
       <td>NOAA/PMEL</td>
       <td>Biogeochemistry</td>
@@ -140,7 +140,7 @@ permalink: /people/
       <td></td>
     </tr>
     <tr>
-      <td>RHOC</td>
+      <td>USEC</td>
       <td>Bruland, Ken<br>bruland@cats.ucsc.edu</td>
       <td>UCSC</td>
       <td>Chemistry</td>
@@ -185,10 +185,10 @@ permalink: /people/
       <td>UW JISAO (NOAA affiliate)</td>
       <td>Chemistry</td>
       <td>CFCs, SF6</td>
-      <td></td>
+      <td>P18 2016, Co-Chief A16N 2013</td>
     </tr>
     <tr>
-      <td>RHOC</td>
+      <td>USEC</td>
       <td>Smethie, Bill<br>bsmeth@ldeo.columbia.edu</td>
       <td>LDEO</td>
       <td>Chemistry</td>
@@ -204,7 +204,7 @@ permalink: /people/
       <td></td>
     </tr>
     <tr>
-      <td>RHOC</td>
+      <td>USEC</td>
       <td>Baringer, Molly<br>molly.baringer@noaa.gov</td>
       <td>NOAA/AOML</td>
       <td>Physical oceanography</td>
@@ -228,7 +228,7 @@ permalink: /people/
       <td></td>
     </tr>
     <tr>
-      <td>RHOC, GO-SHIP</td>
+      <td>USEC, GO-SHIP</td>
       <td class="table-info">Johnson, Gregory C.<br>gregory.c.johnson@noaa.gov</td>
       <td>NOAA/PMEL</td>
       <td>Physical oceanography</td>
@@ -236,7 +236,7 @@ permalink: /people/
       <td>P18 2008 I5 2009</td>
     </tr>
     <tr>
-      <td>RHOC</td>
+      <td>USEC</td>
       <td>Joyce, Terry<br>tjoyce@whoi.edu</td>
       <td>WHOI</td>
       <td>Physical oceanography</td>
@@ -244,7 +244,7 @@ permalink: /people/
       <td></td>
     </tr>
     <tr>
-      <td>RHOC</td>
+      <td>USEC</td>
       <td class="table-info">Macdonald, Alison<br>amacdonald@whoi.edu</td>
       <td>WHOI</td>
       <td>Physical oceanography</td>
@@ -265,7 +265,7 @@ permalink: /people/
       <td>Florida State U.</td>
       <td>Physical oceanography</td>
       <td>CTD, ADCP</td>
-      <td>I6S 2008</td>
+      <td>P6 2017, I6S 2008</td>
     </tr>
     <tr>
       <td></td>
@@ -276,7 +276,7 @@ permalink: /people/
       <td>I9N 2007</td>
     </tr>
     <tr>
-      <td>RHOC</td>
+      <td>USEC</td>
       <td>Swift, Jim<br>jswift@ucsd.edu</td>
       <td>SIO/ODF/CCHDO</td>
       <td>Physical oceanography</td>
@@ -284,7 +284,7 @@ permalink: /people/
       <td>I8S 2007, I5 2009, S4P 2011, P2 2013</td>
     </tr>
     <tr>
-      <td>RHOC, GO-SHIP</td>
+      <td>USEC, GO-SHIP</td>
       <td class="table-info">Talley, Lynne<br>ltalley@ucsd.edu</td>
       <td>SIO/UCSD</td>
       <td>Physical oceanography</td>
