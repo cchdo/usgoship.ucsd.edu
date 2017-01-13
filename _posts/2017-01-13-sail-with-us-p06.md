@@ -11,12 +11,12 @@ Greetings,
 
 We are looking for students to participate in hydrographic long-line cruises (1-2 months) this coming summer (2017) in the South Pacific on the RVIB N.B. Palmer of the US Antarctic Program (USAP).
 The US GO-SHIP program (formerly “US Repeat Hydrography”) collects data for global CO2 and climate variability programs.
-The website is [http://usgoship.ucsd.edu]().
+The website is [https://usgoship.ucsd.edu](https://usgoship.ucsd.edu).
 
 <!--more-->
 
 SIO operates the NSF-funded portion of the US national program.
-The web-site of the international GO-SHIP (Global Ocean Ship-based Hydrographic Investigations Program) program is [http://go-ship.org]().
+The web-site of the international GO-SHIP (Global Ocean Ship-based Hydrographic Investigations Program) program is [http://go-ship.org](http://go-ship.org).
 
 The program pays all travel costs.
 It also pays student support costs during the time of the cruise plus the few travel days before and after the cruise, if the student is enrolled at a U.S. institution.
