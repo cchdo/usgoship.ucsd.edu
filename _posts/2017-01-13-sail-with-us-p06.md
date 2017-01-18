@@ -36,10 +36,11 @@ Note that dates and ports can change during final ship scheduling.
 A valid passport and appropriate visa are required for participation in the cruises. U.S. citizenship is not required.
 
 If you have any interest:
+
 1. CTD students: Please e-mail Lynne Talley (ltalley@ucsd.edu) - co-chair U.S. GO-SHIP Executive Council, or the chief scientists of the cruise if you are interested for more information.
+
    CFC students: Please contact Rana Fine (rfine@rsmas.miami.edu) or Dong-Ha Min (dongha@austin.utexas.edu) – CFC PIs for P6
 2. Talk to your advisor to be sure that this will work with your program.
-
 3. After that, if you want to proceed - please send a cover letter indicating your interest and information about your background (CV, include the academic program you are part of, who your advisor is, what kind of research you are carrying out if you are at that stage, any prior cruise experience).
 
 **Deadline for applications:  February 15, 2017**
