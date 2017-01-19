@@ -25,10 +25,10 @@ It also pays student support costs during the time of the cruise plus the few tr
 There are 2 legs on USAP’s RVIB Palmer in the South Pacific along the P6 line (30°S).
 For each leg we are seeking 4 students for CTD/deck operations (typically PO background), and 1 student to help with CFC analysis (typically chemistry background), so a total of 10 students.
 
-**Leg 1 (P6W): Sydney (Australia) – Papeete (Tahiti), July-Aug 2017**<br>
+**Leg 1 (P6W): Sydney (Australia) – Papeete (Tahiti), 2017-07-03/2017-08-17**<br>
 Sabine Mecking (UW) chief scientist (mecking@uw.edu)
 
-**Leg 2 (P6E): Papeete (Tahiti) – Valparaiso (Chile), Aug-Sept 2017**<br>
+**Leg 2 (P6E): Papeete (Tahiti) – Valparaiso (Chile), 2017-08-21/2017-09-30**<br>
 Kevin Speer (FSU) chief scientist (kspeer@fsu.edu)
 
 Note that dates and ports can change during final ship scheduling.
