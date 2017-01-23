@@ -3,23 +3,23 @@ layout: post
 title: "Arctic Geotraces 2015 Letter from Jim Swift, CTD/hydrographic Scientist, 10"
 date: 2015-10-12 16:46:58 +0000
 ---
-### HLY1502 letter 10 from Jim Swift
+HLY1502 letter 10 from Jim Swift
 
-### final letter from sea
+final letter from sea
 
-#### Sunday, 11 October 2015, 3:00 pm, local date and time (2300 11 October
+Sunday, 11 October 2015, 3:00 pm, local date and time (2300 11 October
 UTC)
 
-#### 54.3°N, 166.4°W (about 26 miles north of Dutch Harbor in the Aleutian
+4.3°N, 166.4°W (about 26 miles north of Dutch Harbor in the Aleutian
 Islands)
 
-#### air 6 degC / 43 degF
+air 6 degC / 43 degF
 
-#### water 9 degC / 48 degF
+water 9 degC / 48 degF
 
-#### wind 26 knots from W
+wind 26 knots from W
 
-#### on final approach to Dutch Harbor, Alaska
+on final approach to Dutch Harbor, Alaska
 
 Dear Family, Friends, and Colleagues,  
   

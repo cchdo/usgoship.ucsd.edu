@@ -4,6 +4,7 @@ title: "I8S Podcast: The CLIVAR Program and Location"
 date: 2013-09-25 23:07:37 +0000
 ---
 
+[Download Podcast]({{site.baseurl}}/files/old/i8s_podcast_1.mp3)
 
 **By Pien Huang**
 

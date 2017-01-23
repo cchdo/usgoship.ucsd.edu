@@ -3,19 +3,19 @@ layout: post
 title: "Arctic Geotraces 2015 Letter from Jim Swift, CTD/hydrographic Scientist, 4"
 date: 2015-09-06 04:46:27 +0000
 ---
-### HLY1502 letter 04 from Jim Swift
+HLY1502 letter 04 from Jim Swift
 
-### Sunday, 30 August 2015, 2:45 pm, local date and time (2245 30 August UTC)
+Sunday, 30 August 2015, 2:45 pm, local date and time (2245 30 August UTC)
 
-#### 86.3°N, 170.6°E (in the Makarov Basin of the Arctic Ocean)
+86.3°N, 170.6°E (in the Makarov Basin of the Arctic Ocean)
 
-#### air -5.0 degC / 23 degF
+air -5.0 degC / 23 degF
 
-#### water -1.4 degC / 29 degF
+water -1.4 degC / 29 degF
 
-#### wind 16 knots from E
+wind 16 knots from E
 
-#### En route to station 29 in near 100% ice cover (at the time of this
+En route to station 29 in near 100% ice cover (at the time of this
 report)
 
 Dear Family, Friends, and Colleagues,

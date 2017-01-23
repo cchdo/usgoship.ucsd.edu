@@ -3,11 +3,11 @@ layout: post
 title: "Arctic Geotraces 2015 Letter from Jim Swift, CTD/hydrographic Scientist, 1"
 date: 2015-08-11 22:51:23 +0000
 ---
-### HLY1502 letter 01 from Jim Swift
+HLY1502 letter 01 from Jim Swift
 
-### Sunday, 09 August 2015, 1:30 pm, local date and time (2130 UTC)
+Sunday, 09 August 2015, 1:30 pm, local date and time (2130 UTC)
 
-####
+
 
 53.6°N, 166.5°W (Dutch Harbor, AK)
 
@@ -17,7 +17,7 @@ water 13.5 degC / 56 degF
 
 wind 12 knots from SW
 
-#### leaving port, heading north to the Arctic Ocean
+leaving port, heading north to the Arctic Ocean
 
 Dear Family, Friends, and Colleagues,
 

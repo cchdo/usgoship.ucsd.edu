@@ -3,20 +3,20 @@ layout: post
 title: "Arctic Geotraces 2015 Letter from Jim Swift, CTD/hydrographic Scientist, 2"
 date: 2015-08-17 19:09:10 +0000
 ---
-### HLY1502 letter 02 from Jim Swift
+HLY1502 letter 02 from Jim Swift
 
-### Sunday, 16 August 2015, 4:30 pm, local date and time (0030 17 August UTC)
+Sunday, 16 August 2015, 4:30 pm, local date and time (0030 17 August UTC)
 
-#### 68°N, 168°W (in the Chukchi Sea, about 100 miles north of Bering Strait,
+68°N, 168°W (in the Chukchi Sea, about 100 miles north of Bering Strait,
 above the Arctic Circle)
 
-#### air 8.2 degC / 47 degF
+air 8.2 degC / 47 degF
 
-#### water 6.4 degC / 44 degF
+water 6.4 degC / 44 degF
 
-#### wind 15 knots from NNE
+wind 15 knots from NNE
 
-#### On Station 6
+On Station 6
 
 Dear Family, Friends, and Colleagues,
 

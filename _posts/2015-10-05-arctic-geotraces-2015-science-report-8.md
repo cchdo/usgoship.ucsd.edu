@@ -3,26 +3,26 @@ layout: post
 title: "Arctic Geotraces 2015 Weekly Science Report from Jim Swift, CTD/hydrographic Scientist, Week 8"
 date: 2015-10-05 17:30:25 +0000
 ---
-### USCGC Healy Cruise HLY-1502
+USCGC Healy Cruise HLY-1502
 
-### US Arctic Geotraces
+US Arctic Geotraces
 
-#### Weekly CTD/Hydrographic Team Report 08
+Weekly CTD/Hydrographic Team Report 08
 
-#### from Jim Swift, UCSD/SIO, CTD/hydro team scientific leader at sea
+from Jim Swift, UCSD/SIO, CTD/hydro team scientific leader at sea
 
-#### Sunday, 04 October 2015, 7:30 pm, local date and time (0330 05 October
+Sunday, 04 October 2015, 7:30 pm, local date and time (0330 05 October
 UTC)
 
-#### 73°N, 158.8°W (on the Beaufort slope)
+73°N, 158.8°W (on the Beaufort slope)
 
-#### air -4 degC / 25 degF
+air -4 degC / 25 degF
 
-#### water -0.5 degC / 31 degF
+water -0.5 degC / 31 degF
 
-#### wind 1-2 knots from ENE
+wind 1-2 knots from ENE
 
-#### on station 060 (a Geotraces 'slope' station)
+on station 060 (a Geotraces 'slope' station)
 
 Note: This is a hydrography-oriented report from Jim Swift, who is working
 with the SIO Oceanographic Data Facility (ODF) CTD/hydrographic team on the US

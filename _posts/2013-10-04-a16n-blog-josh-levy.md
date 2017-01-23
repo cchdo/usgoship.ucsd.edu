@@ -3,13 +3,9 @@ layout: post
 title: "A16N Blog: Josh Levy"
 date: 2013-10-04 19:42:42 +0000
 ---
-[
-
-#### 
 ![][fig0]
-Go to Josh Levy's Blog
 
-](http://4869milevoyage.blogspot.com/)
+[Go to Josh Levy's Blog](http://4869milevoyage.blogspot.com/)
 
 Josh Levy is a recent graduate from UM running ph and alkalinity samples. Josh
 Levy is “Lost at Sea”.

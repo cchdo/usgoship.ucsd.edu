@@ -3,13 +3,10 @@ layout: post
 title: "A16N Blog: Rachel Shelley"
 date: 2013-10-04 19:39:18 +0000
 ---
-[
 
-#### 
 ![][fig0]
-Go to Rachel Shelley's Blog
 
-]( http://eoas-fsu-clivar.blogspot.com/)
+[Go to Rachel Shelley's Blog]( http://eoas-fsu-clivar.blogspot.com/)
 
 Rachel Shelley is a post doc at FSU. She is a chemist for the trace metals
 group.

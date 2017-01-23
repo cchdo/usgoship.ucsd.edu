@@ -3,26 +3,26 @@ layout: post
 title: "Arctic Geotraces 2015 Weekly Science Report from Jim Swift, CTD/hydrographic Scientist, Week 5"
 date: 2015-09-17 19:09:04 +0000
 ---
-### USCGC Healy Cruise HLY-1502
+USCGC Healy Cruise HLY-1502
 
-### US Arctic Geotraces
+US Arctic Geotraces
 
-#### Weekly CTD/Hydrographic Team Report 05
+Weekly CTD/Hydrographic Team Report 05
 
-#### from Jim Swift, UCSD/SIO, CTD/hydro team scientific leader at sea
+from Jim Swift, UCSD/SIO, CTD/hydro team scientific leader at sea
 
-#### Sunday, 13 September 2015, 7:00 pm, local date and time (0500 14
+Sunday, 13 September 2015, 7:00 pm, local date and time (0500 14
 September UTC)
 
-#### 85°48'N, 150°34'W (on the northern flank of the Alpha Ridge)
+85°48'N, 150°34'W (on the northern flank of the Alpha Ridge)
 
-#### air -13.4 degC / 8 degF
+air -13.4 degC / 8 degF
 
-#### water -1.4 degC / 29 degF
+water -1.4 degC / 29 degF
 
-#### wind 4 knots from NE
+wind 4 knots from NE
 
-#### on an ice station following hydrographic station 041
+on an ice station following hydrographic station 041
 
 Note: This is a hydrography-oriented report from Jim Swift, who is working
 with the SIO Oceanographic Data Facility (ODF) CTD/hydrographic team on the US

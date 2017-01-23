@@ -3,20 +3,20 @@ layout: post
 title: "Arctic Geotraces 2015 Letter from Jim Swift, CTD/hydrographic Scientist, 6"
 date: 2015-09-23 19:44:29 +0000
 ---
-### HLY1502 letter 06 from Jim Swift
+HLY1502 letter 06 from Jim Swift
 
-### Sunday, 13 September 2015, 7:00 pm, local date and time (0500 14 September
+Sunday, 13 September 2015, 7:00 pm, local date and time (0500 14 September
 UTC)
 
-#### 85°48'N, 150°34'W (on the northern flank of the Alpha Ridge)
+85°48'N, 150°34'W (on the northern flank of the Alpha Ridge)
 
-#### air -13.4 degC / 8 degF
+air -13.4 degC / 8 degF
 
-#### water -1.4 degC / 29 degF
+water -1.4 degC / 29 degF
 
-#### wind 4 knots from NE
+wind 4 knots from NE
 
-#### on an ice station following hydrographic station 041
+on an ice station following hydrographic station 041
 
 Dear Family, Friends, and Colleagues,  
   

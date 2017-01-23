@@ -3,20 +3,19 @@ layout: post
 title: "Arctic Geotraces 2015 Letter from Jim Swift, CTD/hydrographic Scientist, 3"
 date: 2015-08-31 18:15:13 +0000
 ---
-### HLY1502 letter 03 from Jim Swift
+HLY1502 letter 03 from Jim Swift
 
-### Sunday, 23 August 2015, 5:30 pm, local date and time (0130 24 August UTC)
+Sunday, 23 August 2015, 5:30 pm, local date and time (0130 24 August UTC)
 
-#### 80°N, 175°W (in the Arctic Ocean, near the Siberian end of the Mendeleyev
-Ridge)
+80°N, 175°W (in the Arctic Ocean, near the Siberian end of the Mendeleyev Ridge)
 
-#### air -4.9 degC / 23 degF
+air -4.9 degC / 23 degF
 
-#### water -1.3 degC / 30 degF
+water -1.3 degC / 30 degF
 
-#### wind 8 knots from NNW
+wind 8 knots from NNW
 
-#### On Station 19
+On Station 19
 
 Dear Family, Friends, and Colleagues,
 
@@ -97,7 +96,7 @@ Dear Family, Friends, and Colleagues,
 
 A few minutes after I sent Letter #3, a bear came by the ship at close range.
 Everybody turned out: this was a well-photographed bear! (And a healthy
-looking, fat one at that.)​
+looking, fat one at that.)
 
 Here are two of my photos, at much-reduced resolution.
 

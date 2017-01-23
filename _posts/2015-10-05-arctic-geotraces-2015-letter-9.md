@@ -3,20 +3,20 @@ layout: post
 title: "Arctic Geotraces 2015 Letter from Jim Swift, CTD/hydrographic Scientist, 9"
 date: 2015-10-05 16:33:22 +0000
 ---
-### HLY1502 letter 09 from Jim Swift
+HLY1502 letter 09 from Jim Swift
 
-### Sunday, 04 October 2015, 7:30 pm, local date and time (0330 05 October
+Sunday, 04 October 2015, 7:30 pm, local date and time (0330 05 October
 UTC)
 
-#### 73°N, 158.8°W (on the Beaufort slope)
+73°N, 158.8°W (on the Beaufort slope)
 
-#### air -4 degC / 25 degF
+air -4 degC / 25 degF
 
-#### water -0.5 degC / 31 degF
+water -0.5 degC / 31 degF
 
-#### wind 1-2 knots from ENE
+wind 1-2 knots from ENE
 
-#### on station 060 (a Geotraces 'slope' station)
+on station 060 (a Geotraces 'slope' station)
 
 Dear Family, Friends, and Colleagues,  
   

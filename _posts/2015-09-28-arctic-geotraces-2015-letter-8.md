@@ -3,20 +3,20 @@ layout: post
 title: "Arctic Geotraces 2015 Letter from Jim Swift, CTD/hydrographic Scientist, 8"
 date: 2015-09-28 19:56:53 +0000
 ---
-### HLY1502 letter 08 from Jim Swift
+HLY1502 letter 08 from Jim Swift
 
-### Sunday, 27 September 2015, 1:30 pm, local date and time (2130 27 September
+Sunday, 27 September 2015, 1:30 pm, local date and time (2130 27 September
 UTC)
 
-#### 77°27'N, 147°54'°W (over the Canada Basin)
+77°27'N, 147°54'°W (over the Canada Basin)
 
-#### air -2 degC / 28 degF
+air -2 degC / 28 degF
 
-#### water -1.2 degC / 30 degF
+water -1.2 degC / 30 degF
 
-#### wind 4 knots from WNW
+wind 4 knots from WNW
 
-#### on station 052 (a Geotraces 'full' station)
+on station 052 (a Geotraces 'full' station)
 
 Dear Family, Friends, and Colleagues,  
   

@@ -3,13 +3,9 @@ layout: post
 title: "A16N Blog: Monica Mejia"
 date: 2013-10-04 19:45:37 +0000
 ---
-[
-
-#### 
 ![][fig0]
-Go to Monica Mejia's Blog
 
-](http://teachers.dadeschools.net/mmejia/ERFS_AgroEcology/NOAA_A16N_Trip/NOAA_A16N_Trip.html)
+[Go to Monica Mejia's Blog](http://teachers.dadeschools.net/mmejia/ERFS_AgroEcology/NOAA_A16N_Trip/NOAA_A16N_Trip.html)
 
 Monica Mejia is a teacher at Terra Environmental Research Institute in Miami
 Dade who is sampling C14_DIC for RASMAS. Read Monica Mejia's “Adventure at

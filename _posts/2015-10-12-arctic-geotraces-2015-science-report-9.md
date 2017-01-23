@@ -3,28 +3,28 @@ layout: post
 title: "Arctic Geotraces 2015 Weekly Science Report from Jim Swift, CTD/hydrographic Scientist, Week 9"
 date: 2015-10-12 16:31:58 +0000
 ---
-### USCGC Healy Cruise HLY-1502
+USCGC Healy Cruise HLY-1502
 
-### US Arctic Geotraces
+US Arctic Geotraces
 
-#### Weekly CTD/Hydrographic Team Report 09
+Weekly CTD/Hydrographic Team Report 09
 
-#### final report from Jim Swift, UCSD/SIO, CTD/hydro team scientific leader
+final report from Jim Swift, UCSD/SIO, CTD/hydro team scientific leader
 at sea
 
-#### Sunday, 11 October 2015, 3:00 pm, local date and time (2300 11 October
+Sunday, 11 October 2015, 3:00 pm, local date and time (2300 11 October
 UTC)
 
-#### 54.3°N, 166.4°W (about 26 miles north of Dutch Harbor in the Aleutian
+54.3°N, 166.4°W (about 26 miles north of Dutch Harbor in the Aleutian
 Islands)
 
-#### air 6 degC / 43 degF
+air 6 degC / 43 degF
 
-#### water 9 degC / 48 degF
+water 9 degC / 48 degF
 
-#### wind 26 knots from W
+wind 26 knots from W
 
-#### on final approach to Dutch Harbor, Alaska
+on final approach to Dutch Harbor, Alaska
 
 Note: This is a hydrography-oriented report from Jim Swift, who is working
 with the SIO Oceanographic Data Facility (ODF) CTD/hydrographic team on the US

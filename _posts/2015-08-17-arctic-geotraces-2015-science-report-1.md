@@ -3,19 +3,19 @@ layout: post
 title: "Arctic Geotraces 2015 Weekly Science Report from Jim Swift, CTD/hydrographic Scientist, Week 1"
 date: 2015-08-17 19:30:47 +0000
 ---
-### USCGC Healy Cruise HLY-1502  
+USCGC Healy Cruise HLY-1502  
 US Arctic Geotraces  
 Weekly CTD/Hydrographic Team Report 01  
 from Jim Swift, UCSD/SIO, CTD/hydro team scientific leader at sea
 
-### Sunday, 16 August 2015, 6:45 pm, local date and time (0245 17 August UTC)
+Sunday, 16 August 2015, 6:45 pm, local date and time (0245 17 August UTC)
 
-#### 68°N, 168°W (in the Chukchi Sea, about 100 miles north of Bering Strait)  
+68°N, 168°W (in the Chukchi Sea, about 100 miles north of Bering Strait)  
 air 7.8 degC / 46 degF  
 water 5.7 degC / 42 degF  
 wind 15 knots from NNE
 
-#### On Station 6
+On Station 6
 
 Note: This is a hydrography-oriented report from Jim Swift, who is working
 with the SIO Oceanographic Data Facility (ODF) CTD/hydrographic team on the US
@@ -77,7 +77,7 @@ scientist may choose to run the planned track in reverse, in order to take
 advantage of present and predicted August-September ice conditions over the
 planned track as a whole.
 
-All is well.​
+All is well.
 
 
 ![][fig0]

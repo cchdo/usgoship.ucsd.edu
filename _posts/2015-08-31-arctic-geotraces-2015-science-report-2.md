@@ -3,21 +3,21 @@ layout: post
 title: "Arctic Geotraces 2015 Weekly Science Report from Jim Swift, CTD/hydrographic Scientist, Week 2"
 date: 2015-08-31 19:29:23 +0000
 ---
-### USCGC Healy Cruise HLY-1502  
+USCGC Healy Cruise HLY-1502  
 US Arctic Geotraces Weekly CTD/Hydrographic Team Report 02 from Jim Swift,
 UCSD/SIO, CTD/hydro team scientific leader at sea
 
-### Monday, 24 August 2015, 7:30 pm, local date and time (0330 25 August UTC)
+Monday, 24 August 2015, 7:30 pm, local date and time (0330 25 August UTC)
 
-#### 80.x°N, 176.x°W (heading toward the Makarov Basin of the Arctic Ocean)
+80.x°N, 176.x°W (heading toward the Makarov Basin of the Arctic Ocean)
 
-#### air -3.4 degC / 26 degF
+air -3.4 degC / 26 degF
 
-#### water -1.3 degC / 30 degF
+water -1.3 degC / 30 degF
 
-#### wind 9 knots from NE
+wind 9 knots from NE
 
-#### Coming on to Station 20
+Coming on to Station 20
 
 Note: This is a hydrography-oriented report from Jim Swift, who is working
 with the SIO Oceanographic Data Facility (ODF) CTD/hydrographic team on the US
@@ -81,6 +81,6 @@ serves tasty, hearty meals four times daily: 7-8, 11-12, 5-6, and 11-midnight
 Counterbalance is provided by the ship's two gyms full of commercial grade
 equipment, plus there are exercise sessions and other inducements to keep fit.
 
-All is well.​
+All is well.
 
 

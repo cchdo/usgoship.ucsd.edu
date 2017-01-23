@@ -3,26 +3,26 @@ layout: post
 title: "Arctic Geotraces 2015 Weekly Science Report from Jim Swift, CTD/hydrographic Scientist, Week 7"
 date: 2015-09-29 15:13:05 +0000
 ---
-### USCGC Healy Cruise HLY-1502
+USCGC Healy Cruise HLY-1502
 
-### US Arctic Geotraces
+US Arctic Geotraces
 
-#### Weekly CTD/Hydrographic Team Report 07
+Weekly CTD/Hydrographic Team Report 07
 
-#### from Jim Swift, UCSD/SIO, CTD/hydro team scientific leader at sea
+from Jim Swift, UCSD/SIO, CTD/hydro team scientific leader at sea
 
-#### Sunday, 27 September 2015, 1:30 pm, local date and time (2130 27
+Sunday, 27 September 2015, 1:30 pm, local date and time (2130 27
 September UTC)
 
-#### 77°27'N, 147°54'°W (over the Canada Basin)
+77°27'N, 147°54'°W (over the Canada Basin)
 
-#### air -2 degC / 28 degF
+air -2 degC / 28 degF
 
-#### water -1.2 degC / 30 degF
+water -1.2 degC / 30 degF
 
-#### wind 4 knots from WNW
+wind 4 knots from WNW
 
-#### on station 052 (a Geotraces 'full' station)
+on station 052 (a Geotraces 'full' station)
 
 Note: This is a hydrography-oriented report from Jim Swift, who is working
 with the SIO Oceanographic Data Facility (ODF) CTD/hydrographic team on the US

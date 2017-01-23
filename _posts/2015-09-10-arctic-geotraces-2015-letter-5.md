@@ -3,21 +3,21 @@ layout: post
 title: "Arctic Geotraces 2015 Letter from Jim Swift, CTD/hydrographic Scientist, 5"
 date: 2015-09-10 19:14:14 +0000
 ---
-### HLY1502 letter 05 from Jim Swift
+HLY1502 letter 05 from Jim Swift
 
-### Monday, 07 September 2015, 7:00 pm, local date and time (2100 07 September
+Monday, 07 September 2015, 7:00 pm, local date and time (2100 07 September
 UTC)
 
-#### 90°N (in the Amundsen Basin of the Arctic Ocean)
+90°N (in the Amundsen Basin of the Arctic Ocean)
 
-#### air -3.8 degC / 25 degF
+air -3.8 degC / 25 degF
 
-#### water -1.4 degC / 29 degF
+water -1.4 degC / 29 degF
 
-#### wind 16 knots from N (not certain what the "N" on the meteorological
+wind 16 knots from N (not certain what the "N" on the meteorological
 display means, considering our location!)
 
-#### on station 34, at the North Pole
+n station 34, at the North Pole
 
 Dear Family, Friends, and Colleagues,  
   
