@@ -45,6 +45,7 @@ US GO-SHIP is part of the <a href="http://www.go-ship.org/">international GO-SHI
 <div class="col-sm-12">
 
 	<h1 class="page-heading">News</h1>
+{% if paginator.page == 1 %}
   {% for post in site.categories.sticky limit: 3 %}
 <div class="card card-outline-success card-block post">
   <h4 class="card-title">{{post.title}} <small>{{ post.date | date: "%b %-d, %Y" }}</small></h4>
@@ -52,7 +53,9 @@ US GO-SHIP is part of the <a href="http://www.go-ship.org/">international GO-SHI
   <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-primary">Read More</a>
 </div>
   {% endfor %}
-	{% for post in site.posts %}
+{% endif %}
+
+	{% for post in paginator.posts %}
 <div class="card card-block post">
   <h4 class="card-title">{{post.title}} <small>{{ post.date | date: "%b %-d, %Y" }}</small></h4>
   {{post.excerpt}}
@@ -61,6 +64,34 @@ US GO-SHIP is part of the <a href="http://www.go-ship.org/">international GO-SHI
 	{% endfor %}
 
 </div>
+
+{% if paginator.total_pages > 1 %}
+<nav>
+	<ul class="pagination">
+  {% if paginator.previous_page %}
+    <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a></li>
+  {% else %}
+    <li class="page-item disabled"><span class="page-link">&laquo; Prev</span></li>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <li class="page-item active"><span class="page-link">{{ page }}</span></li>
+    {% elsif page == 1 %}
+      <li class="page-item"><a class="page-link" href="{{site.baseurl}}/">{{ page }}</a></li>
+    {% else %}
+      <li class="page-item"><a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <li class="page-item"><a  class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a></li>
+  {% else %}
+    <li class="page-item disabled"><span class="page-link">Next &raquo;</span></li>
+  {% endif %}
+</ul>
+</nav>
+{% endif %}
 </div>
 
 	<!--<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>-->

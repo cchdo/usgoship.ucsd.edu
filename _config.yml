@@ -21,6 +21,7 @@ github_username:  cchdo
 
 # Build settings
 markdown: kramdown
-
+paginate: 10
+gems: [jekyll-paginate]
 
 excerpt_separator: <!--more-->
