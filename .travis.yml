@@ -2,7 +2,7 @@ nguage: ruby
 rvm:
   - 2.3.3
 
-script: ./script/cibuild
+script: ./cibuild
 
 env:
     global:
