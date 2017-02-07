@@ -37,8 +37,7 @@ counter the busy work day through various calming stretches and poses.
 
 #### Video
 
-Watch a short video showing exercise at sea on the Virtual Cruise page. [
-Watch Video](/virtual_cruise/video_pages/Life_at_Sea/Exercise_at_Sea.html)
+Watch a short video showing exercise at sea on the Virtual Cruise page. [Watch Video](https://archive.h2o.ucsd.edu/virtualcruise/video_pages/Life_at_Sea/Exercise_at_Sea.html)
 
 
 
