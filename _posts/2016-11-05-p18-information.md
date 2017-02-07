@@ -2,7 +2,6 @@
 layout: post
 title:  "P18 Cruise Blogs"
 date:   2016-11-05 00:00:00 +0000
-categories: [sticky]
 ---
 Follow scientists as they work on the R/V Ronald H. Brown.
 
