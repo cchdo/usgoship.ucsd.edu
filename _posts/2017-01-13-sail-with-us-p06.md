@@ -28,7 +28,7 @@ For each leg we are seeking 4 students for CTD/deck operations (typically PO bac
 **Leg 1 (P6W): Sydney (Australia) – Papeete (Tahiti), 2017-07-03/2017-08-17**<br>
 Sabine Mecking (UW) chief scientist (mecking@uw.edu)
 
-**Leg 2 (P6E): Papeete (Tahiti) – Valparaiso (Chile), 2017-08-21/2017-09-30**<br>
+**Leg 2 (P6E): Papeete (Tahiti) – Valparaiso (Chile), 2017-08-20/2017-09-30**<br>
 Kevin Speer (FSU) chief scientist (kspeer@fsu.edu)
 
 Note that dates and ports can change during final ship scheduling.
