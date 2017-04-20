@@ -2,7 +2,6 @@
 layout: post
 title:  "Sail With Us on P06!"
 date:   2017-01-13 00:00:00 +0000
-categories: [sticky]
 ---
 <a href="{{site.baseurl}}/files/P6StudentParticpantRequest_11jan2017.pdf">
 <i class="fa fa-file-pdf-o fa-3x" aria-hidden="true"> Letter to Students</i></a>
