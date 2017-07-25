@@ -16,6 +16,6 @@ img + em {
 [Blog site](http://usgoship-p062017.blogspot.com)
 
 [Cruise Report Week #1](https://usgoship.ucsd.edu/files/WeeklyReport01_P062017Leg1.pdf)    
-[Cruise Report Week #2](https://usgoship.ucsd.edu/files/WeeklyReport01_P062017Leg1.pdf)    
+[Cruise Report Week #2](https://usgoship.ucsd.edu/files/WeeklyReport02_P062017Leg1.pdf)    
 
 P6 has completed its first two weeks, from Sydney to the South Fiji Basin.  Read all about the successful work on the cruise in the weekly cruise reports and especially in the blog above.
