@@ -158,8 +158,8 @@
     "properties": {
       "title": "P06",
       "line": "P06",
-      "completed": [2010],
-      "pending": [2017],
+      "completed": [2010,2017],
+      "pending": [],
       "proposed": [],
       "box":[230,-32]
     }
@@ -174,8 +174,8 @@
     "properties": {
       "title": "P18",
       "line": "P18",
-      "completed": [2008],
-      "pending": [2016],
+      "completed": [2008,2016],
+      "pending": [],
       "proposed": [],
       "box":[258,-55]
     }
@@ -214,8 +214,8 @@
     "properties": {
       "title": "S04P",
       "line": "S04P",
-      "completed": [2011],
-      "pending": [2018],
+      "completed": [2011,2018],
+      "pending": [],
       "proposed": [],
       "box":[174,-65]
     }
@@ -255,7 +255,7 @@
       "title": "I05",
       "line": "I05",
       "completed": [2009],
-      "pending": [2019],
+      "pending": [2020],
       "proposed": [],
       "box":[45,-35]
     }
@@ -270,9 +270,9 @@
     "properties": {
       "title": "I07N",
       "line": "I07N",
-      "completed": [],
+      "completed": [2018],
       "pending": [],
-      "proposed": [2018],
+      "proposed": [],
       "box":[63,0]
     }
   },
@@ -383,7 +383,7 @@
       "title": "A13.5",
       "line": "A13.5",
       "completed": [2010],
-      "pending": [2019],
+      "pending": [2020],
       "proposed": [],
       "box":[360,-55]
     }
