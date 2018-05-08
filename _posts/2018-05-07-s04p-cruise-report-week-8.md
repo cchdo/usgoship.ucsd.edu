@@ -11,7 +11,7 @@ img + em {
  padding-right: 2em;
 }
 </style>
-Read the eigth weekly cruise report from S04P. Yes, they are still at sea and going strong! 
+Read the eight weekly cruise report from S04P. Yes, they are still at sea and going strong! 
 
 [Cruise Report Week #8](https://usgoship.ucsd.edu/files/reports/2018_s04p/S04P_Weekly_report_8.pdf)
 
