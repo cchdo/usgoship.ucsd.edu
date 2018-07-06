@@ -17,7 +17,6 @@ International Programs and Agencies
 * [GO-SHIP - The Global Ocean Ship-based Hydrographic Investigations Program](http://go-ship.org)
 * [CLIVAR - Climate Variability and Predictability US/UK](http://www.clivar.org/resources/data/clivar-carbon-and-hydrographic-sections)
 * [IOCCP - International Ocean Carbon Coordination Project](http://www.ioccp.org/)
-* [Carboocean](http://www.carboocean.org/)
 * [GOOS - Global Ocean Observing System](http://www.ioc-goos.org/)
 * [SOOS - Southern Ocean Observing System](http://www.scar.org/soos/)
 * [OceanSites](http://www.whoi.edu/virtual/oceansites/)
