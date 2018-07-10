@@ -12,8 +12,6 @@ Graduate students at US institutions are given preference.
 Undergraduates and postdocs (though only student salary covered) may apply too.
 The program pays all travel costs, and also support costs for students from US institutions during the time of the cruise plus travel days before and after the cruise.
 
-US GO-SHIP is currently seeking students for P6 this coming summer (2017) in the South Pacific on the RVIB Palmer of the US Antarctic Program (USAP).
-
 Co-chief Scientists
 -------------------
 Advertisements for these positions will be circulated 6 to 9 months prior to each cruise.
