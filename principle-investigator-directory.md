@@ -31,7 +31,7 @@ permalink: /people/
   <tbody>
     <tr>
       <td></td>
-      <td>Volkov, Denis<br>dlvolkov@gmail.com</td>
+      <td>Volkov, Denis<br>denis.volkov@noaa.gov</td>
       <td>RSMAS</td>
       <td>Physical Oceanography</td>
       <td>CTD</td>
@@ -119,7 +119,7 @@ permalink: /people/
     </tr>
     <tr>
       <td>USEC, GO-SHIP</td>
-      <td class="table-info">Feely, Richard<br>richard.a.feely@noaa.gov</td>
+      <td>Feely, Richard<br>richard.a.feely@noaa.gov</td>
       <td>NOAA/PMEL</td>
       <td>Biogeochemistry</td>
       <td>DIC</td>
@@ -127,7 +127,7 @@ permalink: /people/
     </tr>
     <tr>
       <td></td>
-      <td>Hansell, Dennis<br>dhansell@rsmas.miami.edu</td>
+      <td class="table-info">Hansell, Dennis<br>dhansell@rsmas.miami.edu</td>
       <td>RSMAS</td>
       <td>Biogeochemistry</td>
       <td>DOC, TDN</td>
@@ -167,8 +167,8 @@ permalink: /people/
     </tr>
     <tr>
       <td>USEC</td>
-      <td>Sabine, Chris<br>chris.sabine@noaa.gov</td>
-      <td>NOAA/PMEL</td>
+      <td>Sabine, Chris<br>csabine@hawaii.edu</td>
+      <td>U. Hawaii</td>
       <td>Biogeochemistry</td>
       <td>Carbon</td>
       <td></td>
@@ -196,14 +196,6 @@ permalink: /people/
       <td>Chemistry</td>
       <td>Trace metals (Level 2)</td>
       <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>Bulllister, John<br>john.l.bullister@noaa.gov</td>
-      <td>NOAA/PMEL</td>
-      <td>Chemistry</td>
-      <td>CFCs, SF6</td>
-      <td>P18 2008, A13.5 2010, A16N 2013</td>
     </tr>
     <tr>
       <td></td>
@@ -318,14 +310,6 @@ permalink: /people/
       <td>P6 2017, I6S 2008</td>
     </tr>
     <tr>
-      <td></td>
-      <td class="table-success">Sprintall, Janet<br>jsprintall@ucsd.edu</td>
-      <td>SIO/UCSD</td>
-      <td>Physical oceanography</td>
-      <td>CTD, ADCP</td>
-      <td>I9N 2007</td>
-    </tr>
-    <tr>
       <td>USEC</td>
       <td>Swift, Jim<br>jswift@ucsd.edu</td>
       <td>SIO/ODF/CCHDO</td>
@@ -349,6 +333,38 @@ permalink: /people/
       <td>LADCP, turbulence</td>
       <td></td>
     </tr>
+    <tr>
+      <td></td>
+      <td>Briggs, Ellen<br>ebriggs@ucsd.edu</td>
+      <td>SIO/UCSD</td>
+      <td></td>
+      <td></td>
+      <td>Co-chief S4P 2017-2018</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Schulze, Lena<br>lenamarieschulze@gmail.com</td>
+      <td>Jacksonville University</td>
+      <td></td>
+      <td></td>
+      <td>Co-chief P6E 2017</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Rosso, Isabella<br>irosso@ucsd.edu</td>
+      <td>SIO/UCSD</td>
+      <td></td>
+      <td></td>
+      <td>Co-chief P6W 2017</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Samantha Siedlecki<br>samantha.siedlecki@uconn.edu</td>
+      <td>U. Connecticut</td>
+      <td>Physical oceanography</td>
+      <td></td>
+      <td>Co-chief P16N Leg 1</td>
+    </tr>      
   </tbody>
 </table>
 </div>
