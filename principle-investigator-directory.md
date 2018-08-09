@@ -35,7 +35,7 @@ permalink: /people/
       <td>RSMAS</td>
       <td>Physical Oceanography</td>
       <td>CTD</td>
-      <td>Co-chief A16N 2013</td>
+      <td>I7N 2018, Co-chief A16N 2013</td>
     </tr>
     <tr>
       <td></td>
@@ -51,7 +51,7 @@ permalink: /people/
       <td>WHOI</td>
       <td>Physical Oceanography</td>
       <td>CTD</td>
-      <td>Co-chief I8S 2016</td>
+      <td>Co-chief I8S 2016, Co-chief I7N 2018</td>
     </tr>
     <tr>
       <td>Postdoctoral Fellow</td>
@@ -62,9 +62,9 @@ permalink: /people/
       <td>Co-chief P18 2016</td>
     </tr>
     <tr>
-      <td>Postdoctoral Fellow</td>
+      <td></td>
       <td>Purkey, Sarah<br>purkeysg@ldeo.columbia.edu</td>
-      <td>LDEO</td>
+      <td>SIO/UCSD</td>
       <td>Physical Oceanography</td>
       <td>CTD</td>
       <td>Co-chief P18 2016</td>
@@ -291,7 +291,7 @@ permalink: /people/
       <td>WHOI</td>
       <td>Physical oceanography</td>
       <td>CTD</td>
-      <td>A10 2011, P16N 2015, I8S 2016</td>
+      <td>A10 2011, P16N 2015, I8S 2016, S4P 2018</td>
     </tr>
     <tr>
       <td></td>
