@@ -343,7 +343,7 @@ permalink: /people/
     </tr>
     <tr>
       <td></td>
-      <td>Schulze, Lena<br>lenamarieschulze@gmail.com</td>
+      <td>Schulze, Lena<br>lschulz2@ju.edu</td>
       <td>Jacksonville University</td>
       <td></td>
       <td></td>
