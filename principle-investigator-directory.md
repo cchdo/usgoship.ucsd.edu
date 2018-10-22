@@ -14,7 +14,7 @@ permalink: /people/
 }
 </style>
 <div class="alert alert-info" role="alert">Principal Investigators interested in postdoc mentoring are highlighted in blue</div> 
-<div class="alert alert-success" role="alert">Principal Investigators interested in postdoc co-mentoring are highlighted in green</div>
+<!-- <div class="alert alert-success" role="alert">Principal Investigators interested in postdoc co-mentoring are highlighted in green</div> -->
 
 <div class="table-responsive">
 <table class="table" id="person_table">
