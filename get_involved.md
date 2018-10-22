@@ -6,8 +6,8 @@ permalink: /get_involved/
 
 Students
 --------
-participate in each hydrographic long-line cruise (1-2 months).
-For each leg we seek 2 to 4 students for CTD/deck operations, and 1 student to help with CFC analysis (typically laboratory chemistry background).
+Participate in each hydrographic long-line cruise (1-2 months).
+For each leg we seek 2 to 4 students for CTD/deck operations,  1 student to assist with CFC analysis (typically laboratory chemistry background), and 1 student to assist with LADCP operations (typically physical oceanography background). 
 Graduate students at US institutions are given preference.
 Undergraduates and postdocs (though only student salary covered) may apply too.
 The program pays all travel costs, and also support costs for students from US institutions during the time of the cruise plus travel days before and after the cruise.
