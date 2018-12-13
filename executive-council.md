@@ -20,8 +20,8 @@ files/20170106_US_GEC_Terms_of_Reference.pdf %}).
   National Oceanic and Atmospheric Administration (NOAA)/PMEL
 * [Andrew Dickson](mailto:adickson@ucsd.edu)
   Scripps Institution of Oceanography (SIO)
-* [Scott Doney](mailto:sdoney@whoi.edu)
-  Woods Hole Oceanographic Institution (WHOI
+* [Scott Doney](mailto:sdoney@virginia.edu)
+  University of Virgina
 * [Richard Feely](mailto:Richard.A.Feely@noaa.gov)
   National Oceanic and Atmospheric Administration (NOAA)/PMEL
 * [Gregory C. Johnson](mailto:Gregory.C.Johnson@noaa.gov) (Co-chair)

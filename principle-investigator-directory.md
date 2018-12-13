@@ -58,12 +58,12 @@ permalink: /people/
       <td>Bourbonnais, Annie<br>abourbonnais@umassd.edu</td>
       <td>WHOI</td>
       <td>Biogeochemistry</td>
-      <td>Nutrients, carbon</td>
+      <td>Nutrients, Carbon</td>
       <td>Co-chief P18 2016</td>
     </tr>
     <tr>
-      <td></td>
-      <td>Purkey, Sarah<br>purkeysg@ldeo.columbia.edu</td>
+      <td>Postdoctoral Fellow</td>
+      <td>Purkey, Sarah<br>spurkey@ucsd.edu</td>
       <td>SIO/UCSD</td>
       <td>Physical Oceanography</td>
       <td>CTD</td>
@@ -102,7 +102,7 @@ permalink: /people/
       <td>P16N 2015</td>
     </tr>
     <tr>
-      <td></td>
+      <td>USEC</td>
       <td>Dickson, Andrew<br>adickson@ucsd.edu</td>
       <td>SIO/UCSD</td>
       <td>Biogeochemistry</td>
@@ -111,8 +111,8 @@ permalink: /people/
     </tr>
     <tr>
       <td>USEC</td>
-      <td class="table-info">Doney, Scott<br>sdoney@whoi.edu</td>
-      <td>WHOI</td>
+      <td class="table-info">Doney, Scott<br>sdoney@virginia.edu</td>
+      <td>U. Virginia</td>
       <td>Biogeochemistry</td>
       <td>Carbon, tritium, 3He</td>
       <td></td>
@@ -146,7 +146,7 @@ permalink: /people/
       <td>Mecking, Sabine<br>smecking@uw.edu</td>
       <td>UW APL</td>
       <td>Biogeochemistry</td>
-      <td>O2, nutrients</td>
+      <td>O2, Nutrients</td>
       <td>P6 2017, P2 2013</td>
     </tr>
     <tr>
@@ -162,7 +162,7 @@ permalink: /people/
       <td>Mordy, Calvin<br>calvin.w.mordy@noaa.gov</td>
       <td>UW JISAO (NOAA affiliate)</td>
       <td>Biogeochemistry</td>
-      <td>nutrients</td>
+      <td>Nutrients</td>
       <td></td>
     </tr>
     <tr>
@@ -186,7 +186,7 @@ permalink: /people/
       <td>Zhang, Jia-Zhong<br>jia-zhong.zhang@noaa.gov</td>
       <td>NOAA/AOML</td>
       <td>Biogeochemistry</td>
-      <td>nutrients</td>
+      <td>Nutrients</td>
       <td></td>
     </tr>
     <tr>
@@ -194,7 +194,7 @@ permalink: /people/
       <td>Bruland, Ken<br>bruland@cats.ucsc.edu</td>
       <td>UCSC</td>
       <td>Chemistry</td>
-      <td>Trace metals (Level 2)</td>
+      <td>Trace Metals (Level 2)</td>
       <td></td>
     </tr>
     <tr>
@@ -249,7 +249,7 @@ permalink: /people/
       <td>USEC</td>
       <td>Baringer, Molly<br>molly.baringer@noaa.gov</td>
       <td>NOAA/AOML</td>
-      <td>Physical oceanography</td>
+      <td>Physical Oceanography</td>
       <td>CTD, LADCP</td>
       <td>A10 2011, A16N 2013</td>
     </tr>
@@ -257,7 +257,7 @@ permalink: /people/
       <td></td>
       <td>Curry, Ruth<br>rcurry@whoi.edu</td>
       <td>WHOI</td>
-      <td>Physical oceanography</td>
+      <td>Physical Oceanography</td>
       <td>CTD</td>
       <td>A22 2012</td>
     </tr>
@@ -265,7 +265,7 @@ permalink: /people/
       <td></td>
       <td>Firing, Eric<br>efiring@hawaii.edu</td>
       <td>U. Hawaii</td>
-      <td>Physical oceanography</td>
+      <td>Physical Oceanography</td>
       <td>LADCP, SADCP</td>
       <td></td>
     </tr>
@@ -273,7 +273,7 @@ permalink: /people/
       <td>USEC, GO-SHIP</td>
       <td class="table-info">Johnson, Gregory C.<br>gregory.c.johnson@noaa.gov</td>
       <td>NOAA/PMEL</td>
-      <td>Physical oceanography</td>
+      <td>Physical Oceanography</td>
       <td>CTD</td>
       <td>P18 2008 I5 2009</td>
     </tr>
@@ -281,7 +281,7 @@ permalink: /people/
       <td>USEC</td>
       <td>Joyce, Terry<br>tjoyce@whoi.edu</td>
       <td>WHOI</td>
-      <td>Physical oceanography</td>
+      <td>Physical Oceanography</td>
       <td>CTD, LADCP</td>
       <td></td>
     </tr>
@@ -289,7 +289,7 @@ permalink: /people/
       <td>USEC</td>
       <td class="table-info">Macdonald, Alison<br>amacdonald@whoi.edu</td>
       <td>WHOI</td>
-      <td>Physical oceanography</td>
+      <td>Physical Oceanography</td>
       <td>CTD</td>
       <td>A10 2011, P16N 2015, I8S 2016, S4P 2018</td>
     </tr>
@@ -297,7 +297,7 @@ permalink: /people/
       <td></td>
       <td>Orsi, Alex<br>aorsi@tamu.edu</td>
       <td>Texas A&amp;M</td>
-      <td>Physical oceanography</td>
+      <td>Physical Oceanography</td>
       <td>CTD</td>
       <td>Co-chief S4P 2011</td>
     </tr>
@@ -305,7 +305,7 @@ permalink: /people/
       <td></td>
       <td class="table-info">Speer, Kevin<br>kspeer@fsu.edu</td>
       <td>Florida State U.</td>
-      <td>Physical oceanography</td>
+      <td>Physical Oceanography</td>
       <td>CTD, ADCP</td>
       <td>P6 2017, I6S 2008</td>
     </tr>
@@ -313,7 +313,7 @@ permalink: /people/
       <td>USEC</td>
       <td>Swift, Jim<br>jswift@ucsd.edu</td>
       <td>SIO/ODF/CCHDO</td>
-      <td>Physical oceanography</td>
+      <td>Physical Oceanography</td>
       <td>CTD,chemistry</td>
       <td>I8S 2007, I5 2009, S4P 2011, P2 2013</td>
     </tr>
@@ -321,7 +321,7 @@ permalink: /people/
       <td>USEC, GO-SHIP</td>
       <td class="table-info">Talley, Lynne<br>ltalley@ucsd.edu</td>
       <td>SIO/UCSD</td>
-      <td>Physical oceanography</td>
+      <td>Physical Oceanography</td>
       <td>CTD, chemistry</td>
       <td>P16S 2014</td>
     </tr>
@@ -329,39 +329,39 @@ permalink: /people/
       <td></td>
       <td class="table-info">Thurnherr, Andreas<br>ant@ldeo.columbia.edu</td>
       <td>LDEO</td>
-      <td>Physical oceanography</td>
-      <td>LADCP, turbulence</td>
+      <td>Physical Oceanography</td>
+      <td>LADCP, Turbulence</td>
       <td></td>
     </tr>
     <tr>
       <td></td>
       <td>Briggs, Ellen<br>ebriggs@ucsd.edu</td>
       <td>SIO/UCSD</td>
-      <td></td>
-      <td></td>
+      <td>Biogeochemistry</td>
+      <td>Carbon</td>
       <td>Co-chief S4P 2017-2018</td>
     </tr>
     <tr>
       <td></td>
       <td>Schulze, Lena<br>lschulz2@ju.edu</td>
       <td>Jacksonville University</td>
-      <td></td>
-      <td></td>
+      <td>Physical Oceanography</td>
+      <td>CTD</td>
       <td>Co-chief P6E 2017</td>
     </tr>
     <tr>
       <td></td>
       <td>Rosso, Isabella<br>irosso@ucsd.edu</td>
       <td>SIO/UCSD</td>
-      <td></td>
-      <td></td>
+      <td>Physical Oceanography, Biogeochemistry</td>
+      <td>CTD</td>
       <td>Co-chief P6W 2017</td>
     </tr>
     <tr>
       <td></td>
       <td>Samantha Siedlecki<br>samantha.siedlecki@uconn.edu</td>
       <td>U. Connecticut</td>
-      <td>Physical oceanography</td>
+      <td>Physical Oceanography</td>
       <td></td>
       <td>Co-chief P16N Leg 1</td>
     </tr>      
