@@ -238,7 +238,7 @@ permalink: /people/
       <td></td>
     </tr>
     <tr>
-      <td></td>
+      <td>USEC</td>
       <td>Warner, Mark<br>warner@u.washington.edu</td>
       <td>UWashington</td>
       <td>Chemistry</td>
@@ -299,7 +299,7 @@ permalink: /people/
       <td>Texas A&amp;M</td>
       <td>Physical Oceanography</td>
       <td>CTD</td>
-      <td>Co-chief S4P 2011</td>
+      <td>I06S 2019, Co-chief S4P 2011</td>
     </tr>
     <tr>
       <td></td>
