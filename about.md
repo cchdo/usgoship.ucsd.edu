@@ -103,7 +103,7 @@ Level  1 data:
   * Bottle salinity
   * Nutrients by standard auto analyzer (NO3/NO2, PO4, SiO3)
   * Dissolved oxygen
-  * Chlorofluorocarbons (CFC-11, -12, -113) and SF6
+  * Chlorofluorocarbons (CFC-11, -12) and SF6
   * Dissolved organic carbon
   * Dissolved organic nitrogen
   * Surface underway system (T, S, pCO2)
@@ -123,12 +123,16 @@ Level 2 data:
   * CTD Transmissometer
   * Surface underway system (nutrients, O2, Chl, skin
     temperature).
+  * CFC-113
 
 Level 3 data (examples):
 
   * Chlorophyll
   * Primary production
   * HPLC pigments
+  * POC
+  * Fluorometry and backscatter
+  * Rare earth elements (REE)
   * Experimental continuous analyzers
   * ∂15N
   * NO3
@@ -142,6 +146,7 @@ Level 3 data (examples):
   * N2, Ar, O2
   * Methyl halides
   * DMS
+  * N2O
 
 
 ## Cruise Organization, Planning, And Documentation
