@@ -383,7 +383,7 @@
       "title": "A13.5",
       "line": "A13.5",
       "completed": [2010],
-      "pending": [2020],
+      "pending": [],
       "proposed": [],
       "box":[360,-55]
     }
@@ -433,7 +433,7 @@
       "title": "A10",
       "line": "A10",
       "completed": [2011],
-      "pending": [],
+      "pending": [2020],
       "proposed": [],
       "box":[350,-30]
     }
