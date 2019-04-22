@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I06S Cruise Report 01"
+title:  "I06S Cruise Report 1"
 date:   2019-04-22 20:00:00 +0800
 ---
 <style>
