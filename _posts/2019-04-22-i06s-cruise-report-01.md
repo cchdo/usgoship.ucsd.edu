@@ -13,7 +13,7 @@ img + em {
 </style>
 Read the first weekly cruise report from I06S.  Engine trouble sent the crew back to port, but — thankfully — the cruise is now underway!  Read on to learn how it played out.
 
-[Cruise Report #1](https://usgoship.ucsd.edu/files/reports/2019_i06s/I6S_Report01.pdf)
+[Cruise Report #1](https://usgoship.ucsd.edu/files/reports/2019_i06s/I6S_Report01_l.pdf)
 
 [Blog site](https://usgoship-i06s2019.blogspot.com/)
 
