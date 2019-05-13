@@ -11,7 +11,7 @@ img + em {
  padding-right: 2em;
 }
 </style>
-Read the last cruise report from I06S.
+Read the last cruise report from I06S!
 
 [Cruise Report #3](https://usgoship.ucsd.edu/files/reports/2019_i06s/I6S_Report03.pdf)
 
