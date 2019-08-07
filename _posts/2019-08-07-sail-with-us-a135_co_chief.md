@@ -4,7 +4,7 @@ title:  "A13.5 2020 Co-Chief Scientist Opportunity"
 date:   2019-08-07 12:00:00 +0000
 ---
 <a href="{{site.baseurl}}/files/ads/GO-SHIP_A13.5_2020_Co-Chief_Scientist_Opportunity.pdf">
-<i class="fa fa-file-pdf-o fa-3x" aria-hidden="true"> Read Letter to Students</i></a>
+<i class="fa fa-file-pdf-o fa-3x" aria-hidden="true"> Read Letter to early career scientists</i></a>
 
 Greetings,
 
